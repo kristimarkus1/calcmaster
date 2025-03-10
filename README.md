@@ -44,7 +44,7 @@ A sleek, modern calculator built with React, featuring dark mode, sound effects,
    - View real-time weather updates 🌤
 
 ## 🌐 Live Demo
-🔗 **[Check out CalcMaster live!](https://your-live-demo-link.com)**
+🔗 **[Check out CalcMaster live!](https://calcmaster-two.vercel.app/)**
 
 
 ## 🤝 Contributing
