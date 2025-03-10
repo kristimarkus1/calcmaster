@@ -1,6 +1,5 @@
 # CalcMaster - A Stylish and Functional Calculator
-
-![CalcMaster Logo](./public/img.png){width="200"} 
+ 
 A sleek, modern calculator built with React, featuring dark mode, sound effects, real-time weather updates, and a notepad for quick notes.
 
 ## 🚀 Features
