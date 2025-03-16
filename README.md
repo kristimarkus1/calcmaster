@@ -1,6 +1,7 @@
 # CalcMaster - A Stylish and Functional Calculator
  
 A sleek, modern calculator built with React, featuring dark mode, sound effects, real-time weather updates, and a notepad for quick notes.
+Hoster version: https://calcmaster-two.vercel.app/
 
 ## 🚀 Features
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
